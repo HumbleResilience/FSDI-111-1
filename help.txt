@@ -1,0 +1,38 @@
+Terminal commands:
+---------------------------------------------------
+mkdir -p ~Code/SDKGU
+~/Code/SDGKU
+
+ls -al
+
+pwd (working dir)
+
+explorer.exe .   (open in explorer)
+
+touch myfile.txt (creates files)
+
+mv myfile.txt quick_dir  
+(move files from source to destination)
+
+mv myfile.txt myfile2.txt (rename)
+
+rmdir delete_me (delete file)
+
+cd .. (parent dir)
+
+rm -rf quick_dir (remove entire directory)
+================================
+Flask
+
+python3 -m venv venv (virtual env)
+source venv/bin/activate (activate it)
+deactivate 
+
+pip3 install flask (install flask on venv)
+
+make dir app
+touch app/__init__.py
+touch app/routes.py
+
+touch run.py(helper file)
+
